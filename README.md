@@ -3,8 +3,6 @@
 <head>
   <meta charset='utf-8'>
   <meta name='viewport' content='width=device-width'>
-  <title>Privacy Policy</title>
-  <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
 </head>
 <body>
 <h2>Privacy Policy</h2> <p> José Joaquín Pérez-Calderón Ortiz built the SpotApp app as a Free app. This SERVICE is provided by José Joaquín Pérez-Calderón Ortiz at no cost and is intended for use as is.
